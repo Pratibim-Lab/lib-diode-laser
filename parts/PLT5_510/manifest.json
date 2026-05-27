@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Laser/PLT5_510:PLT5_510",
+  "name": "PLT5_510",
+  "library": "Diode_Laser",
+  "file": "Diode_Laser.kicad_symdir/PLT5_510.kicad_sym",
+  "description": "10mW, Green Laser Diode (515nm), TO-56",
+  "datasheet": "https://look.ams-osram.com/m/2562f8ca3a03a793/original/PLT5-510.pdf",
+  "keywords": "opto laserdiode",
+  "footprint": "OptoDevice:LaserDiode_TO56-3",
+  "extends": "PLT5_450B",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-laser@master/parts/PLT5_510/",
+  "part_path": "parts/PLT5_510",
+  "symbol_file": "parts/PLT5_510/PLT5_510.kicad_sym",
+  "source_library": "Diode_Laser.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:55.364Z"
+}

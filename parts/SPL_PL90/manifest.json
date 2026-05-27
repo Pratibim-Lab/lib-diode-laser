@@ -1,0 +1,17 @@
+{
+  "id": "Diode_Laser/SPL_PL90:SPL_PL90",
+  "name": "SPL_PL90",
+  "library": "Diode_Laser",
+  "file": "Diode_Laser.kicad_symdir/SPL_PL90.kicad_sym",
+  "description": "Pulsed Laser Diode in Plastic Package 25W Peak Power",
+  "datasheet": "https://look.ams-osram.com/m/2e6f6e5edf55ddfe/original/SPL-PL90.pdf",
+  "keywords": "opto laserdiode",
+  "footprint": "LED_THT:LED_D5.0mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode-laser@master/parts/SPL_PL90/",
+  "part_path": "parts/SPL_PL90",
+  "symbol_file": "parts/SPL_PL90/SPL_PL90.kicad_sym",
+  "source_library": "Diode_Laser.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:55.372Z"
+}
